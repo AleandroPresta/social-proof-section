@@ -9,19 +9,6 @@ The designs were created to the following widths:
 
 > 💡 These are just the design sizes. Ensure content is responsive and meets WCAG requirements by testing the full range of screen sizes from 320px to large screens.
 
-## Colors
-
-### Primary
-
-Very Dark Magenta: hsl(300, 43%, 22%)
-Soft Pink: hsl(333, 80%, 67%)
-
-### Neutral
-
-Dark Grayish Magenta: hsl(303, 10%, 53%)
-Light Grayish Magenta: hsl(300, 24%, 96%)
-White: hsl(0, 0%, 100%)
-
 ## Typography
 
 ### Body Copy
