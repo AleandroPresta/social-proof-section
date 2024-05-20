@@ -1,4 +1,16 @@
 @media screen and (min-width: 1024px) {
+
+    html, body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+    }
+
+    .foreground-content {
+        margin: 3% 7% 0% 7%;
+    }
+
     .top-container {
         display: flex;
         justify-content: space-between;
@@ -38,6 +50,39 @@
     .third-review {
         margin-left: 80px;
     }
+
+    .citations-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+        margin-top: 0px;
+    }
+
+    .card {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+
+    .first-card {
+        margin-bottom: 30px;
+    }
+
+    .second-card {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    .third-card {
+        margin-top: 30px;
+    }
     
+}
+
+@media screen and (min-width: 1440px) {
+    .container {
+        margin: 0% 20% 0% 20%;
+    }
 }
 
